@@ -1,4 +1,4 @@
-# Web Engineering Report - Team 12 - January 2023
+# Problem Analysis and Software Design Report - Team 12 - January 2023
 ## Team Members
 - Bianca Raetchi 
 - Anne Bakker
@@ -6,9 +6,9 @@
 ---
 ---
 
-# Web-App Development Technologies
-## Backend - C# with ASP.NET
-## Used libraries:
+# Backend Development Technologies
+## C# with ASP.NET
+### Used libraries:
 System.Net: This library provides a simple programming interface for many of the protocols used on networks today. It allows you to use classes such as HttpWebRequest and HttpWebResponse for sending HTTP requests and receiving HTTP responses.
 
 System: This is the core library for the C# language and provides a wide range of functionality, including basic data types and support for many common programming patterns such as events and asynchronous programming.
