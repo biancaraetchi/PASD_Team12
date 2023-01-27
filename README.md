@@ -1,1 +1,2 @@
-# PASD_Team12
+# PASD_Team12 - Proof of Concept
+Our project is comprised of 3 parts: the backend, which is connected to the provided API and fetches the necessary data, the frontend, which presents a demo of the UI for our future app and the email notification template, which will be sent to the users when their status is changed in our database. Each of these parts is put on separate branches. Each branch contains a Readme detailing how to launch the projects. 
