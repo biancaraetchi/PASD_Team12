@@ -4675,24 +4675,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\iorda\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\BackendPASD\\BackendProj\\BackendProj.csproj",
+      "projectUniqueName": "d:\\PASD\\PASD_Team12\\BackendProj\\BackendProj.csproj",
       "projectName": "BackendProj",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\BackendPASD\\BackendProj\\BackendProj.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\BackendPASD\\BackendProj\\obj\\",
+      "projectPath": "d:\\PASD\\PASD_Team12\\BackendProj\\BackendProj.csproj",
+      "packagesPath": "C:\\Users\\iorda\\.nuget\\packages\\",
+      "outputPath": "d:\\PASD\\PASD_Team12\\BackendProj\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\iorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
